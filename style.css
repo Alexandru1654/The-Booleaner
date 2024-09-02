@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(18, 130, 250);
+}
+
+/* The */
+#speciale {
+    font-size: 22px;
+    color: white;
+}
+
+/*Booleaner title*/
+#speciale2 {
+    font-size: 30px;
+    color: white;
+}
+
+.z {
+    color: rgb(18, 130, 250);
+    font-size: 17px;
+}
+
+.x {
+    color: red;
+    font-size: 17px;
+}
+
+.q {
+    color: white;
+    background-color: rgb(18, 130, 250);
+}
+
+.row {
+    background-color: rgba(255, 192, 203, 0.377);
+}
+
+.t {
+    background-color: yellow;
+}
+
+#box {
+    color: grey;
+}
+
